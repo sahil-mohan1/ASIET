@@ -1,0 +1,16 @@
+student@dl-24:~/55$ date
+Saturday 04 January 2025 10:14:50 AM IST
+student@dl-24:~/55$ date +%m
+01
+student@dl-24:~/55$ date +%h
+Jan
+student@dl-24:~/55$ date +%d
+04
+student@dl-24:~/55$ date +%y
+25
+student@dl-24:~/55$ date +%H
+10
+student@dl-24:~/55$ date +%M
+15
+student@dl-24:~/55$ date +%S
+27
